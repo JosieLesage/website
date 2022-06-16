@@ -19,12 +19,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=eamWLM0AAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/josephine-lesage-ph-d-63b6a08b/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=eamWLM0AAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Josephine-Lesage
@@ -44,4 +44,4 @@ Ph.D. in Environmental Studies from the University of California, Santa
 Cruz, where she studied long-term management and community change in
 California's coastal prairies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
