@@ -15,13 +15,10 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- Restoration Ecology
+- Reproducible data flows
+- Evidence-based Education
+
 social:
 - icon: envelope
   icon_pack: fas
