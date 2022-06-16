@@ -1,18 +1,14 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Environmental Studies
+    institution: University of California, Santa Cruz
+    year: 2020
+  - course: BSc in Aquatic Biology
+    institution: University of California, Santa Barbara
+    year: 2013
+email: "lesage.josie@gmail.com"
 highlight_name: true
 interests:
 - Restoration Ecology
@@ -23,21 +19,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CastillejaJosie
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=eamWLM0AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JosieLesage
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/josephine-lesage-ph-d-63b6a08b/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Josephine-Lesage
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JosieLesage
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CastillejaJosie
 superuser: true
 title: Josie Lesage
 ---
