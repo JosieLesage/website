@@ -6,10 +6,17 @@ use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
+<<<<<<< HEAD
   I’m scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
   I have a Ph.D in Environmental Studies from the University of California, Santa Cruz in 2020, and a B.S. of Aquatic Biology from the University of California, Santa Barbara. I’m an ecologist by training, but have dabbled in botany, pedagogy, and data science.
   I’m a huge iNaturalist nerd, and love getting involved in community science efforts.
   I’m currently living in Santa Barbara with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
+=======
+I’m scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
+I have a Ph.D in Environmental Studies from the University of California, Santa Cruz in 2020, and a B.S. of Aquatic Biology from the University of California, Santa Barbara. I’m an ecologist by training, but have dabbled in botany, pedagogy, and data science.
+I’m a huge iNaturalist nerd, and love getting involved in community science efforts.
+I’m currently living in Santa Barbara with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
+>>>>>>> d7cb096c8f9d3d5184a2c92f07b2aa1bbe7a5d75
 ---
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
