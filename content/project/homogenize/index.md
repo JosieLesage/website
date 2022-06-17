@@ -11,8 +11,8 @@ subtitle: Restoration can benefit biodiversity, but we should be concious of our
 tags:
 - Restoration
 links:
-- icon: "book-open-cover"
-  icon_pack: far
+- icon: "fa-book-open-cover"
+  icon_pack: fas
   name: Read it online
   url: https://escholarship.org/uc/item/6zx0s3nr
 ---
