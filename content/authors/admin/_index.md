@@ -44,4 +44,4 @@ Ph.D. in Environmental Studies from the University of California, Santa
 Cruz, where she studied long-term management and community change in
 California's coastal prairies.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
