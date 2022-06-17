@@ -1,57 +1,27 @@
 ---
 categories:
 - Restoration
-date: "2018-11-01"
+date: "2020-11-01"
 draft: false
-author: Josie Lesage, Elizabeth Howard, and Karen Holl
-title: Homogenizing Biodiversity in Restoration
+author: Josie Lesage, Daniel Press, and Karen Holl
+title: Perceptions of listed plant reintroductions
 excerpt: "Restoration frequently aims to improve native species biodiversity at a site, but practitioners have limited resources. The selective use of certain guilds or species can come at the cost of biodiversity, resulting in the overall homogenization of the ecosystem."
 layout: single
-subtitle: Restoration can benefit biodiversity, but we should be concious of our biases towards easy-to-grow species.
+subtitle: Listed plant species can be challenging to reintroduce, but most practioners we interviewed feel that longer-duration funding, better collaboration, and more experimentation could help improve outcomes.
 tags:
 - Restoration
 links:
 - icon: "book-open-cover"
   icon_pack: far
   name: Read it online
-  url: https://escholarship.org/uc/item/6zx0s3nr
+  url: https://link.springer.com/content/pdf/10.1007/s10531-020-02045-y.pdf
 ---
 
 ### Abstract
 
-Restoration frequently aims to improve native species biodiversity at a
-site, but practitioners have limited resources. In diverse ecosystems,
-the selective use of certain guilds or species can come at the cost of
-species that are more challenging to incorporate,resulting in the
-overall homogenization of the ecosystem and a relative loss of
-biodiversity. We surveyed practitioners who restore California prairies
-to understand their use of native annual forbs, an important component
-of the biodiversity in this ecosystem. We found that practitioners
-preferentially planted native perennial species, mainly grasses. Despite
-practitioners' recognition of the high conservation value of native
-annual forbs, they were hesitant to include this guild in their planting
-palettes because of high costs, low and unpredictable establishment, and
-lack of seed. We recommend that California annual prairie forbs be
-seeded in multiple years to enhance establishment, and that monitoring
-targets be designed to better reflect the high variability in
-interannual abundance of native annual forbs. These issues are not
-unique to California prairie, and more broadly, restoration objectives
-and research across a range of ecosystems should prioritize guilds that
-are more challenging to establish but are of high conservation concern.
+Reintroduction is an increasingly common practice to conserve and recover threatened and endangered plant species, so understanding how practitioners view their work and identifying persistent resource mismatches are key to the long-term viability of these listed species. We interviewed practitioners involved in reintroduction projects for 14 species in the state of California to understand (1) how they defined recovery; (2) their assessment of the likelihood of recovery; (3) what advice they would share with other practitioners to improve reintroduction efforts; and (4) what resources could make future projects more successful. Practitioners’ definitions of recovery aligned with ecological theory and emphasized the importance of self-sustaining populations and large populations, as well as the presence of multiple populations. However, most practitioners felt that recovery was unlikely or did not think the species they worked with should or would be de-listed without the guarantee of perpetual future interventions. Practitioners thought that studying basic biology and natural history, using experiments to determine the best techniques, and repeatedly planting populations were important to project success. However, practitioners also felt they were missing critical resources, including long-term funding for implementation and maintenance, successful and positive relationships between members of the practitioner-agency-scientistlandowner nexus, and assurances/safe harbor agreements for experimental populations. Overall, rare plant reintroductions are complicated by persistent mismatches in timing and goals, but some individuals have been able to successfully navigate these challenges. Longer duration funding mechanisms for monitoring and maintenance and better data handling, storage, and dissemination would benefit future projects.
 
-### Implications for Practice
-
--   Restoration goals, practices, and research should incorporate a
-    fuller suite of species, including those that are more challenging
-    to propagate and establish, such as annual forbs in California
-    prairies.
--   Restoration objectives and monitoring should be tailored to reflect
-    differences in life histories across plant guilds.
--   Practitioners can employ several techniques to reduce the cost and
-    risk associated with planting native annual forbs, such as seeding
-    or planting in subportions of larger restoration projects, in years
-    with high expected precipitation, or over multiple years.
 
 ### Learn more
 
-This paper is available online for free,  [here](https://escholarship.org/uc/item/6zx0s3nr)!
+This paper is available online for free,  [here](https://link.springer.com/content/pdf/10.1007/s10531-020-02045-y.pdf)!
