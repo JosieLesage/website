@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 active: false
+=======
+active:false
+>>>>>>> 3ee135cc0f26b5a3fca505e9369df6b33d5ab35d
 
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
