@@ -1,5 +1,4 @@
 ---
-active:false
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
@@ -35,3 +34,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+active:false
