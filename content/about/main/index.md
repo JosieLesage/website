@@ -14,8 +14,7 @@ I'm scientist, educator, and huge nerd. I love getting excited about nature and 
   
   I'm currently living in Santa Barbara with my partner and cat (Walter) and ball python (Steve), but we're moving up to Portland, Oregon soon. 
   
-  
-![Walter gets some PC heat.](walter.jpeg)
+![Walter gets some PC heat.](/walter.jpeg)
 ---
 
 
