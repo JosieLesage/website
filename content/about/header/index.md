@@ -8,5 +8,4 @@ headline: |
 
 <!-- this is a subheadline -->
 
-I'm scientist, educator, and huge nerd who's excited about getting other
-people excited about nature and data.
+I'm scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
