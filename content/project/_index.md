@@ -16,4 +16,5 @@ show_post_date: false
 show_post_thumbnail: true
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+\*\* No content for the project index. This file provides front matter
+for the blog including the layout and boolean options. \*\*
