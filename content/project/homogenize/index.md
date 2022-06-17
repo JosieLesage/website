@@ -12,7 +12,7 @@ tags:
 - Restoration
 links:
 - icon: book-open-cover
-  icon_pack: fas
+  icon_pack: far
   name: website
   url: https://escholarship.org/uc/item/6zx0s3nr
 ---
