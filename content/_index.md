@@ -5,7 +5,7 @@ description: |
 I'm scientist, educator, and huge nerd who's excited about getting other people excited about nature and data.
 
 images:
-- img/revoir.jpg
+- img/headshot_square.jpg
 image_left: true
 text_align_left: false
 show_action_link: true
