@@ -1,5 +1,5 @@
 ---
-title: Josie's Projects
+title: Josie's Papers n' Projects
 cascade:
   show_author_byline: true
   show_comments: false
