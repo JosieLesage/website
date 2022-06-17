@@ -1,8 +1,7 @@
 ---
 cascade:
   headless: true
-description: |
-
+description: 
 show_header: true
 sidebar_left: false
 title: About
