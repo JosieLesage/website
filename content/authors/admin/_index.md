@@ -11,9 +11,9 @@ education:
 email: "lesage.josie@gmail.com"
 highlight_name: true
 interests:
-- Restoration Ecology
+- Restoration ecology
 - Reproducible data flows
-- Evidence-based Education
+- Evidence-based education
 
 social:
 - icon: envelope
