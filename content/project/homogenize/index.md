@@ -1,13 +1,20 @@
 ---
 categories:
-date: "2018"
+- Restoration
+date: "2018-11-01"
 draft: false
+author: Josie Lesage, Elizabeth Howard, and Karen Holl
 title: Homogenizing Biodiversity in Restoration
 excerpt: "Restoration frequently aims to improve native species biodiversity at a site, but practitioners have limited resources. The selective use of certain guilds or species can come at the cost of biodiversity, resulting in the overall homogenization of the ecosystem."
 layout: single
 subtitle: Restoration can benefit biodiversity, but we should be concious of our biases towards easy-to-grow species.
 tags:
 - Restoration
+links:
+- icon: book-open-cover
+  icon_pack: fas
+  name: website
+  url: https://escholarship.org/uc/item/6zx0s3nr
 ---
 
 ### Abstract
@@ -47,5 +54,4 @@ are more challenging to establish but are of high conservation concern.
 
 ### Learn more
 
-This paper is [freely available online
-here](https://escholarship.org/uc/item/6zx0s3nr)!
+This paper is available online for free,  [here](https://escholarship.org/uc/item/6zx0s3nr)!
