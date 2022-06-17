@@ -11,8 +11,8 @@ subtitle: Listed plant species can be challenging to reintroduce, but most pract
 tags:
 - Restoration
 links:
-- icon: "book-open-cover"
-  icon_pack: far
+- icon: "book-open"
+  icon_pack: fas
   name: Read it online
   url: https://link.springer.com/content/pdf/10.1007/s10531-020-02045-y.pdf
 ---
