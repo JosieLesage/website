@@ -5,7 +5,7 @@ date: "2020-11-01"
 draft: false
 author: Josie Lesage, Daniel Press, and Karen Holl
 title: Perceptions of listed plant reintroductions
-excerpt: "Restoration frequently aims to improve native species biodiversity at a site, but practitioners have limited resources. The selective use of certain guilds or species can come at the cost of biodiversity, resulting in the overall homogenization of the ecosystem."
+excerpt: "Listed plant species can be challenging to reintroduce, but most practioners we interviewed feel that longer-duration funding, better collaboration, and more experimentation could help improve outcomes."
 layout: single
 subtitle: Listed plant species can be challenging to reintroduce, but most practioners we interviewed feel that longer-duration funding, better collaboration, and more experimentation could help improve outcomes.
 tags:
