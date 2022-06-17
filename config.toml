@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Josie Lesage's personal website"
   favicon = "/img/webicon.png"
   logo = "/img/webicon.png"
-  mainSections = ["project", "talks", "photos"]
+  mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
