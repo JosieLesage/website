@@ -5,7 +5,7 @@ number_featured: 0 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
-intro: 
+intro: |
 I'm scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
 
   I have a Ph.D in Environmental Studies from the University of California, Santa Cruz in 2020, and a B.S. of Aquatic Biology from the University of California, Santa Barbara. I'm an ecologist by training, but have dabbled in botany, pedagogy, and data science.
