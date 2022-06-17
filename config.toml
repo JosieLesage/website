@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Josie Lesage's personal website"
   favicon = "/img/webicon.png"
   logo = "/img/webicon.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["project", "talks", "photos"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -121,30 +121,21 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
-  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
+    weight = 3
+[[menu.header]]
+    name = "Photos"
+    title = "Photos"
+    url = "/photos/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+
     
   # Configure footer  
   [[menu.footer]]
