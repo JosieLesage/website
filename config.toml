@@ -133,7 +133,7 @@ enableEmoji = true
 [[menu.header]]
     name = "Photos"
     title = "Photos"
-    url = "/photos/"
+    url = "/photo/"
     weight = 4
 
     
