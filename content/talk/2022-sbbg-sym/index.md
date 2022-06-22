@@ -3,7 +3,7 @@ author: Josie Lesage
 categories:
 - Post-fire surveys
 - Thomas Fire
-date: "2021-09-09"
+date: "2022-03-14"
 draft: false
 event: 
 event_url: https://youtu.be/MqfSMobGWak?t=9112
