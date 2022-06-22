@@ -5,7 +5,7 @@ categories:
 - Thomas Fire
 date: "2021-10-28"
 draft: false
-event: 
+event: 2021 California Invasive Plant Council Symposium
 event_url: https://vimeo.com/699064691#t=2400s
 excerpt: A talk I gave at the 2021 Cal-IPC Symposium about the value of volunteer contributions to invasive plant data collection.
 featured: true

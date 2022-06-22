@@ -4,7 +4,7 @@ categories:
 - Seed banks
 date: "2017-01-10"
 draft: false
-event: 
+event: 2017 Northern California Botanists Symposium
 event_url: https://www.youtube.com/watch?v=52lq7RGtXQw
 excerpt: I grew out the seed banks of soil samples collected from intact, restored, and degraded grasslands to determine whether they had different soil seed banks. 
 featured: true

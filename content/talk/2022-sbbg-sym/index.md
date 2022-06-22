@@ -5,7 +5,7 @@ categories:
 - Thomas Fire
 date: "2022-03-14"
 draft: false
-event: 
+event: Santa Barbara Botanic Garden Conservation Symposium
 event_url: https://youtu.be/MqfSMobGWak?t=9112
 excerpt: The last talk I gave about our community science survey efforts, this time at the Santa Barbara Botanic Garden's post-fire themed Conservation Symposium. 
 featured: true
