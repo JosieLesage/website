@@ -32,9 +32,18 @@ In 2021, I camped at Middle Matilija Camp, a lovely creek-side spot that we had 
 ![Camping under the large trees at Middle Matilija Camp.](camp.png)
 
 ### The Plants
-Matilija has a gorgeous native plant named after it - the Matilija poppy! This species is also known as the "fried egg" flower, for obvious reasons.
+Matilija has a gorgeous native plant named after it - the Matilija poppy (*Romneya* species)! This genus is also known as the "fried egg" flower, for obvious reasons.
 
 ![Matilija poppies look a lot like fried eggs.](friedegg.png)
+
+I also got to encounter the fabulous, person-sized candelabrum that is *Mentzelia laevicaulis*, or "giant blazing star". *Mentzelia* is a fun genus, but good luck if you accidentally bruch the leaves with your clothing - many Mentzelia species have incredible velcro-like hairs (called trichomes) that make peeling the material off almost impossible. 
+
+![Gorgeous giant mentzelia](mentzelia.png)
+
+The last flower I want to share is *Delphinium*. There are a number of California-native *Delphinium*, but sheesh are they hard to ID! I'm choosing to admire these without a key from now on. 
+
+![A close-up of a Delphinium flower.](Delphinium1.jpg)
+
 
 ### The Critters
 
