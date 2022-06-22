@@ -19,7 +19,11 @@ tags:
 As a part of my survey work in the Thomas Fire Scar for the [Santa Barbara Botanic Garden](https://sbbotanicgarden.org/conservation/our-impact/restoring-habitats/), I visited the Matilija Wilderness in 2020 and 2021. It's one of 10 wilderness areas in the Los Padres, and home to some gorgeous streams, cool plant communities, and peaceful backcountry camps. 
 
 ### The Landscape
+The Matilija Wilderness is home to some of the headwater forks of Matilija Creek, a persistent stream that runs through the rugged landscape -- making it a great place to backpack or visit waterfalls. 
 
+![Water flowing in the upper north fork of Matilija Creek, June 2020.](waterfall.png)
+
+![Camping under a large tree at Middle Matilija Camp.](camp.JPEG)
 
 ### The Plants
 
