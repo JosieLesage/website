@@ -1,12 +1,12 @@
 ---
 title: Matilija Wilderness
-subtitle: "Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021.""
+subtitle: "Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021."
 excerpt: "Highlights from several hikes into the Matilija wilderness."
 date: 2021-06-01
-author: "Josie Lesage"
+author: ""
 featured: false
 draft: false
-layout: single-sidebar
+layout: single
 tags:
 - Los Padres
 - Matilija Wilderness
