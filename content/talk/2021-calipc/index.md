@@ -17,7 +17,7 @@ links:
   url: https://vimeo.com/699064691#t=2400s
 location: Virtual
 show_post_time: false
-title: New Mapping Tools: Community Scientists
+title: Community Scientists Help to Map Post-Fire Recovery on California's Central Coast
 ---
 
 
