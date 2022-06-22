@@ -7,7 +7,7 @@ date: "2021-09-09"
 draft: false
 event: 
 event_url: https://www.youtube.com/watch?v=IffIKRqawb0
-excerpt: A talk delivered virtually for the Santa Cruz Natural History Museum about how to get on iNaturalist and collect data; and how community scientists have benefitted our data collection efforts at the Santa Barbara Botanic Garden.
+excerpt: A talk delivered virtually for the Santa Cruz Museum of Natural History about how to get on iNaturalist and collect data; and how community scientists have benefited our data collection efforts at the Santa Barbara Botanic Garden.
 featured: true
 layout: single
 links:
