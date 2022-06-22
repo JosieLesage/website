@@ -11,6 +11,8 @@ subtitle: Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2
 tags:
 - Los Padres
 - Matilija Wilderness
+- Post-fire surveys
+- Thomas Fire
 
 ---
 
