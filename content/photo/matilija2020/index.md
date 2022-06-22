@@ -1,21 +1,20 @@
 ---
-categories:
-- Los Padres
-date: "2021-05-01"
-draft: false
-author: Josie Lesage
 title: Matilija Wilderness
+subtitle: "Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021.""
 excerpt: "Highlights from several hikes into the Matilija wilderness."
-layout: single
-subtitle: Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021.
+date: 2021-06-01
+author: "Josie Lesage"
+featured: false
+draft: false
+layout: single-sidebar
 tags:
 - Los Padres
 - Matilija Wilderness
 - Post-fire surveys
 - Thomas Fire
-
+categories:
+- Los Padres
 ---
-
 ## The Matilija Wilderness
 
 As a part of my survey work in the Thomas Fire Scar for the [Santa Barbara Botanic Garden](https://sbbotanicgarden.org/conservation/our-impact/restoring-habitats/), I visited the Matilija Wilderness in 2020 and 2021. It's one of 10 wilderness areas in the Los Padres, and home to some gorgeous streams, cool plant communities, and peaceful backcountry camps. 

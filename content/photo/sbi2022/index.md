@@ -1,16 +1,16 @@
 ---
-categories:
-- Channel Islands
-date: "2022-02-28"
-draft: false
-author: Josie Lesage
 title: Santa Barbara Island
-excerpt: ""
-layout: single
-subtitle: Photos from Santa Barbara Island while helping conduct vegetation monitoring surveys
+subtitle: "Photos from Santa Barbara Island while helping conduct vegetation monitoring surveys"
+excerpt: "Some of the neat stuff I saw on Santa Barbara Island while helping the National Parks Service with their annual vegetation monitoring."
+date: 2022-02-28
+author: "Josie Lesage"
+featured: true
+draft: false
 tags:
 - Channel Islands National Park
-
+categories:
+- Channel Islands
+layout: single
 ---
 
 ## Santa Barbara Island
