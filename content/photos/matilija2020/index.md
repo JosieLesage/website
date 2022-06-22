@@ -5,7 +5,7 @@ date: "2021-05-01"
 draft: false
 author: Josie Lesage
 title: Matilija Wilderness
-excerpt: ""
+excerpt: "Highlights from several hikes into the Matilija wilderness."
 layout: single
 subtitle: Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021.
 tags:
