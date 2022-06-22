@@ -4,10 +4,10 @@ categories:
 date: "2021-05-01"
 draft: false
 author: Josie Lesage
-title: Matilija Wilderness - June 2020 and 2021
+title: Matilija Wilderness
 excerpt: ""
 layout: single
-subtitle: A few hikes in the Matilija Wilderness, June 2020 and June 2021. 
+subtitle: Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021.
 tags:
 - Los Padres
 - Matilija Wilderness
@@ -23,22 +23,22 @@ The Matilija Wilderness is home to some of the headwater forks of Matilija Creek
 
 ![Water flowing in the upper north fork of Matilija Creek, June 2020.](waterfall.jpg)
 
-On your way in, you'll pass by several private inholding properties, where the early summer roadside is covered with lovely blooming native plants. 
+On your way in, you'll pass by several private inholding properties, where the early summer roadside is covered with lovely blooming native plants -- recovering quickly from the charred skeletons left by the Thomas Fire.
 
 ![Native shrubs in full bloom on the way in to the Matilija Wilderness.](onthewayin.jpg)
 
 In 2021, I camped at Middle Matilija Camp, a lovely creek-side spot that we had to ourselves, and was shaded by some towering (if burned out) trees. 
 
-![Camping under a large tree at Middle Matilija Camp.](camp.JPEG)
+![Camping under the large trees at Middle Matilija Camp.](camp.png)
+
+### The Plants
+Matilija has a gorgeous native plant named after it - the Matilija poppy! This species is also known as the "fried egg" flower, for obvious reasons.
 
 ![A large tree shades our campsite.](burnedouttree.JPEG)
 
-### The Plants
+### The Critters
 
 
-### The Bugs
-
-
-### Learn more
+### See more
 
 Check out more of my iNaturalist observations from this area [here](https://www.inaturalist.org/observations?place_id=123585&subview=map&user_id=castillejajosie&verifiable=any)!
