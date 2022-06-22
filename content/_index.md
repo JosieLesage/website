@@ -2,7 +2,7 @@
 title: "Josie Lesage"
 subtitle: "Scientist, educator, big fan of nature"
 description: |
-    I'm scientist, educator, and huge nerd who's excited about getting other people excited about nature and data.
+    I'm researcher, teacher, coder, and huge nerd who's excited about getting other people excited about nature and data.
 images:
 - img/headshot_square.jpg
 image_left: true
