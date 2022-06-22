@@ -1,5 +1,5 @@
 ---
-author: Josie Lesage
+author: 
 cascade:
   author: Josie Lesage
   show_author_byline: true
