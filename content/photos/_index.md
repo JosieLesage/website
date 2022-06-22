@@ -2,7 +2,7 @@
 title: Photos
 author: "Josie Lesage"
 description: |
-  Some of my favorite photos. I love getting out and capturing records of local biodiversity - you can find more of my photography on (iNaturalist)[https://www.inaturalist.org/observations?place_id=any&user_id=castillejajosie&verifiable=any]. 
+  Some of my favorite photos. I love getting out and capturing records of local biodiversity - you can find more of my photography on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=castillejajosie&verifiable=any). 
 layout: list-grid
 ---
 
