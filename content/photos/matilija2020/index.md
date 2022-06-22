@@ -34,7 +34,7 @@ In 2021, I camped at Middle Matilija Camp, a lovely creek-side spot that we had 
 ### The Plants
 Matilija has a gorgeous native plant named after it - the Matilija poppy! This species is also known as the "fried egg" flower, for obvious reasons.
 
-![A large tree shades our campsite.](burnedouttree.JPEG)
+![Matilija poppies look a lot like fried eggs.](friedegg.png)
 
 ### The Critters
 
