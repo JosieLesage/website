@@ -4,19 +4,19 @@ categories:
 date: "2021-05-01"
 draft: false
 author: Josie Lesage
-title: Matilija Wilderness - June 2020
+title: Matilija Wilderness - June 2020 and 2021
 excerpt: ""
 layout: single
-subtitle: A few hikes in the Matilija Wilderness, June 2020 to May 2021. 
+subtitle: A few hikes in the Matilija Wilderness, June 2020 and June 2021. 
 tags:
 - Los Padres
 - Matilija Wilderness
 
 ---
 
-### The Matilija Wilderness
+## The Matilija Wilderness
 
-As a part of my survey hiking in the Thomas Fire Scar with the (Santa Barbara Botanic Garden)[https://sbbotanicgarden.org/conservation/our-impact/restoring-habitats/], I visited the Matilija Wilderness in 2020 and 2021. It's one of 10 wilderness areas in the Los Padres, and home to some gorgeous streams, plant communities, and backcountry camps. 
+As a part of my survey work in the Thomas Fire Scar for the [Santa Barbara Botanic Garden](https://sbbotanicgarden.org/conservation/our-impact/restoring-habitats/), I visited the Matilija Wilderness in 2020 and 2021. It's one of 10 wilderness areas in the Los Padres, and home to some gorgeous streams, cool plant communities, and peaceful backcountry camps. 
 
 ### The Landscape
 
