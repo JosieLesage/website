@@ -31,7 +31,7 @@ In 2021, I camped at Middle Matilija Camp, a lovely creek-side spot that we had 
 
 ![Camping under the large trees at Middle Matilija Camp.](camp.png)
 
-If you continue hiking along the Matilija Camp trail, you'll eventually reach Maple Camp through some , just below where the trail connects to the Cherry Canyon Forest Service Road. Up here, you can see the fire damage to the large stands of bigcone Douglas fir (*Pseudotsuga macrocarpa*) that are found in the area. 
+If you continue hiking along the Matilija Camp trail, you'll eventually reach Maple Camp, just below where the trail connects to the Cherry Canyon Forest Service Road. Up here, you can see the fire damage to the large stands of bigcone Douglas fir (*Pseudotsuga macrocarpa*) that are found in the area. 
 
 ![Burned bigcone doug-fir above Maple camp.](kylie.JPEG)
 
@@ -44,18 +44,22 @@ I also got to encounter the fabulous, person-sized candelabrum that is *Mentzeli
 
 ![Gorgeous giant mentzelia](mentzelia.png)
 
-The last flower I want to share is *Delphinium*. There are a number of California-native *Delphinium*, but sheesh are they hard to ID! I'm choosing to admire these without a key from now on. 
+And the last flower I want to share is *Delphinium*. There are a number of California-native *Delphinium*, but sheesh are they hard to ID! I'm choosing to admire these without a key from now on. 
 
 ![A close-up of a Delphinium flower.](delphinium.png)
 
 
 ### The Critters
 
-And of course, where there are cool plants, you're sure to find cool critters!
+And of course, where there are cool plants, you're sure to find cool critters! I didn't expect to see this cute little snake so close to water, but apparently it's a two-striped garter snake (*Thamnophis hammondii*), and they're often found very close to water. 
+
+![snake](snake1.jpg)
+
+This jumping spider is too pretty not to share - I'm not sure what species it is, but I think it's in the genus *Phiddipus*. So beautiful!
 
 ![spider](jumper.jpg)
 
-![snake](snake1.jpg)
+And of course, a lovely wasp. I just think they're gorgeous - apparently, this one is a member of the pollen wasps group (*Pseudomasaris*), and is unusal amoung wasps because it feeds pollen and nectar to its young (as opposed to most wasps, who feed their young on other organisms!). 
 
 ![wasp](wasp1.jpg)
 
