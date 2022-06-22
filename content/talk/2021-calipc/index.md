@@ -1,7 +1,7 @@
 ---
 author: Josie Lesage
 categories:
-- Port-fire surveys
+- Post-fire surveys
 - Thomas Fire
 date: "2021-10-28"
 draft: false
