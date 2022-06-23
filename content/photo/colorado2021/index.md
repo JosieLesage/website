@@ -1,7 +1,7 @@
 ---
-title: Visitng Colorado
-subtitle: "A vacation-time hike at Chatauqa Park in Boulder, CO."
-excerpt: ""
+title: Visiting Colorado
+subtitle: "A summertime vacation trip to Colorado, with stops in Denver, Colorado Springs, and Boulder."
+excerpt: "In summer 2021, I visited Colorado. There are so many great plants, rocks, and bugs out there - and many are very different from what I'm used to on the West Coast!"
 date: 2021-07-28
 author: "Josie Lesage"
 featured: true
@@ -14,15 +14,11 @@ layout: single
 
 ## Denver
 
+## Garden of the Gods
 
 ## Chataqua
 
-
-### Garden of the Gods
-
-
-### El Dorado
-
+## El Dorado
 
 ### See more
 
