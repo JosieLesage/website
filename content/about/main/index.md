@@ -14,7 +14,7 @@ intro: |
   
   I’m pretty active on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=castillejajosie&verifiable=any), and love getting involved in community science efforts.
   
-  I’m currently living in Santa Barbara with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
+  I’m currently living in Santa Barbara, California with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
   
   ![Walter enjoys some exhaust heat from my PC](walter.jpeg)
 ---
