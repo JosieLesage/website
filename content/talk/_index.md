@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  Here are some of the talks, videos, and trainings I've given, that are available to be viewed online.
+  Some of the talks, videos, and trainings I've given.
 layout: list
 show_author_byline: true
 show_button_links: true
