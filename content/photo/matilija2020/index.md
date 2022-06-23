@@ -1,6 +1,6 @@
 ---
 title: Matilija Wilderness
-subtitle: "Photos from a few hikes in the Matilija Wilderness, in June 2020 and 2021."
+subtitle: "Photos from several hikes in the Matilija Wilderness, in June 2020 and 2021."
 excerpt: "Highlights from several hikes into the Matilija wilderness."
 date: 2021-06-01
 author: ""
@@ -67,4 +67,4 @@ And of course, a lovely wasp. I just think they're gorgeous - apparently, this o
 
 ### See more
 
-Check out more of my iNaturalist observations from this area [here](https://www.inaturalist.org/observations?place_id=123585&subview=map&user_id=castillejajosie&verifiable=any)!
+Check out more of my iNaturalist observations from this area [here](https://www.inaturalist.org/observations?place_id=123585&subview=map&user_id=castillejajosie&verifiable=any). 
