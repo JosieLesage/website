@@ -1,8 +1,8 @@
 ---
-title: Chataqua Park
+title: Visitng Colorado
 subtitle: "A vacation-time hike at Chatauqa Park in Boulder, CO."
 excerpt: ""
-date: 2022-02-28
+date: 2021-07-28
 author: "Josie Lesage"
 featured: true
 draft: false
@@ -12,6 +12,9 @@ categories:
 layout: single
 ---
 
+## Denver
+
+
 ## Chataqua
 
 
@@ -19,7 +22,6 @@ layout: single
 
 
 ### El Dorado
-
 
 
 ### See more
