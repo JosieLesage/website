@@ -32,7 +32,7 @@ In 2021, I camped at Middle Matilija Camp, a lovely creek-side spot that we had 
 
 ![Camping under the large trees at Middle Matilija Camp.](camp.png)
 
-If you continue hiking along the Matilija Camp trail, you'll eventually reach Maple Camp, just below where the trail connects to the Cherry Canyon Forest Service Road. Up here, you can see the fire damage to the large stands of bigcone Douglas fir (*Pseudotsuga macrocarpa*) that are found in the area. 
+If you continue hiking along the North Fork Matilija Trail, you'll eventually reach Maple Camp, just below where the trail connects to the Cherry Canyon Forest Service Road. Up here, you can see the fire damage to the large stands of bigcone Douglas fir (*Pseudotsuga macrocarpa*) that are found in the area. 
 
 ![Burned bigcone doug-fir above Maple camp.](kylie.JPEG)
 
