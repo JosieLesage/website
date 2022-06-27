@@ -19,6 +19,8 @@ intro: |
   I’m currently living in Santa Barbara, California with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
   
   ![Walter enjoys some exhaust heat from my PC](walter.jpeg)
+  
+  Want to look through my CV? [Click here!](https://docs.google.com/document/d/1IVgTIOtMJ4LZAIPqM4Pr6L2Ps6Yh9HUO0hZ1q5XHVkg/edit?usp=sharing)
 ---
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
