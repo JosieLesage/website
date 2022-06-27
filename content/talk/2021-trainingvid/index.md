@@ -7,7 +7,7 @@ date: "2021-09-09"
 draft: false
 event: 
 event_url: https://www.youtube.com/watch?v=V9HzSQF6kpE
-excerpt: I made a quick five-minute training video to guide community scientists through the data-collection process for our Thomas fire project.
+excerpt: I made a quick five-minute training video to guide community scientists through the data-collection process for the Santa Barbara Botanic Garden's Thomas Fire survey project.
 featured: true
 layout: single
 links:
