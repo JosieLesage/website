@@ -3,7 +3,7 @@ title: Matilija Wilderness
 subtitle: "Photos from several hikes in the Matilija Wilderness, in June 2020 and 2021."
 excerpt: "Highlights from several hikes into the Matilija wilderness."
 date: 2021-06-01
-author: ""
+author: "Josie Lesage"
 featured: false
 draft: false
 layout: single
