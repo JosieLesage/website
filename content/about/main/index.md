@@ -10,9 +10,11 @@ intro: |
   
   I have a Ph.D in Environmental Studies from the University of California, Santa Cruz in 2020, and a B.S. of Aquatic Biology from the University of California, Santa Barbara. I’m an ecologist by training, but have dabbled in botany, pedagogy, and data science.
   
-  ![Enjoying a field of ranunculus](thankfulfield.JPG)
+  ![On a hike with a plant press.](hiking.jpeg)
   
   I’m pretty active on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=castillejajosie&verifiable=any), and love getting involved in community science efforts.
+  
+  ![Enjoying a field of ranunculus](thankfulfield.JPG)
   
   I’m currently living in Santa Barbara, California with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
   
