@@ -14,7 +14,7 @@ layout: single
 ---
 
 ## Santa Barbara Island
-In 2021, I was lucky enough to get the opportunity to help the National Park Service (NPS) with their annual vegetation monitoring on Santa Barbara Island. This island is the smallest of the channel islands, and lacking the cute island foxes known from the other NPS islands -- but it's still a real treat to get to visit it.
+In 2022, I was lucky enough to get the opportunity to help the National Park Service (NPS) with their annual vegetation monitoring on Santa Barbara Island. This island is the smallest of the channel islands, and lacking the cute island foxes known from the other NPS islands -- but it's still a real treat to get to visit it.
 
 To get there, we took a helicopter. This was the first time I'd ever taken a helicopter, and for a short while, I was pretty sure I had made a career mistake and should have been a pilot instead... but then I realized there are no plants in helicopters. Still beaming ear to ear after getting to see whales on the ride over, though!
 
