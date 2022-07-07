@@ -16,7 +16,7 @@ intro: |
   
   ![Enjoying a field of ranunculus](thankfulfield.JPG)
   
-  I’m currently living in Santa Barbara, California with my partner and cat (Walter) and ball python (Steve), but we’re moving up to Portland, Oregon soon.
+  I’m currently living in Santa Barbara, California with my partner, cat (Walter), and ball python (Steve), but we’re moving up to Portland, Oregon soon.
   
   ![Walter enjoys some exhaust heat from my PC](walter.jpeg)
   
