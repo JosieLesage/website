@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: These are some of the papers and projects I've worked on over the past few years.
+description: These are some of the papers and projects I've worked on, helped with, or led over the past few years.
 layout: list
 show_author_byline: true
 show_button_links: false
