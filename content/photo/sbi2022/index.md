@@ -32,7 +32,7 @@ To drive home the point that these plants are super cool and absolutely stunning
 
 ![](sunset.jpg)
 
-Of course, there's also plenty of opportunity for gorgeous sea-cliff photos on Santa Barbara Island. During our lunches, we'd usually try to find a spot near a great ocean view (a pretty easy ask out there) and I'd snap a photo or two if I had the chance. Off of the southeast end of the island is a tiny islet called "Sutil Island".
+Of course, there's also plenty of opportunity for gorgeous sea-cliff photos on Santa Barbara Island. During our lunches, we'd usually try to find a spot near a great ocean view (a pretty easy task out there) and I'd snap a photo or two if I had the chance. Off of the southeast end of the island is a tiny islet called "Sutil Island".
 
 ![](cliffview.jpg)
 
