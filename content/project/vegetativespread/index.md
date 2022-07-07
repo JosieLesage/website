@@ -4,7 +4,7 @@ categories:
 date: "2020-11-24"
 draft: false
 author: Josie Lesage, Karen Holl, Tianjiao Adams, Jack Rusk, Richard D. Schreiber, and Mickie Tang
-title: Perceptions of listed plant reintroductions
+title: Vegetative spread is key to applied nucleation success in non-native-dominated grasslands
 excerpt: "Planting species that can spread vegetatively through rhizomes is a successful strategy in restoring coastal California grasslands, and can be combined with applied nucleation to maximize outcomes with fewer resources."
 layout: single
 subtitle: Planting species that can spread vegetatively through rhizomes is a successful strategy in restoring coastal California grasslands, and can be combined with applied nucleation to maximize outcomes with fewer resources.
