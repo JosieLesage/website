@@ -6,7 +6,7 @@ use_featured: true # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I’m scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
+  I’m a scientist, educator, and huge nerd. I love getting excited about nature and data, and helping other people get excited about those things too. 
   
   I have a Ph.D in Environmental Studies from the University of California, Santa Cruz (graduated 2020), and a B.S. of Aquatic Biology from the University of California, Santa Barbara (2013). I’m an ecologist by training, but have dabbled in botany, pedagogy, and data science.
   
