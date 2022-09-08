@@ -16,7 +16,7 @@ intro: |
   
   ![Enjoying a field of ranunculus](thankfulfield.JPG)
   
-  I’m currently living in Santa Barbara, California with my partner, cat (Walter), and ball python (Steve), but we’re moving up to Portland, Oregon soon.
+  I’m currently living in Portland, Oregon with my partner, cat (Walter), and ball python (Steve), and teaching Environmental Studies at Clark College in Vancouver, WA.
   
   ![Walter enjoys some exhaust heat from my PC](walter.jpeg)
   
