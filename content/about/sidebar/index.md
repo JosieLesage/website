@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Josie Lesage"
+author: "Dr. Josie Lesage"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 link_list_label: Looking for my CV? # "Interests"  bookmarks, elsewhere, etc.
 link_list: 
