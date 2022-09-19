@@ -6,7 +6,8 @@ date: "2022-05-01"
 draft: false
 author: Josie Lesage
 title: Resilience after the flames
-excerpt: "In Southern California shrublands, wildflowers proliferate after fire while native shrubs recover by resprouting or germinating from the soil seed bank. As climate change, increased development, and the spread of invasive species lead to more frequent wildfires, we need to step in more often to help landscapes recover and maintain the benefits nature provides."
+excerpt: "In Southern California shrublands, wildflowers proliferate after fire while native shrubs recover by resprouting or germinating from the soil seed bank. As climate change, increased development, and the spread of invasive species lead to more frequent wildfires, we may need to step in more often to help landscapes recover and maintain the benefits nature provides. 
+This article in the Santa Barbara Botanic Garden's biannual Ironwood newsletter describes some of the ways I worked at the Garden to better understand exactly where, how, and when to interven in post-fire landscapes to make the greatest impact."
 layout: single
 subtitle: This article in the Santa Barbara Botanic Garden's biannual Ironwood newsletter describes some of the ways I worked at the Garden to better understand exactly where, how, and when to interven in post-fire landscapes to make the greatest impact.
 tags:
