@@ -21,7 +21,7 @@ links:
 
 ### Abstract
 
-In Southern California, where wildfires are a natural part of our ecosystem, many native plants have adaptations that allow them to recover after a burn without human intervention. But this may be changing as climate, increased urban development, and the spread of invasive species lead to more frequent wildfires. As a result, humans may need to step in more often to help landscapes recover after a fire. At the Santa Barbara Botanic Garden, we're working to better understand exactly where, how, and when to interven in post-fire landscapes to make the greatest impact.
+In Southern California, where wildfires are a natural part of our ecosystem, many native plants have adaptations that allow them to recover after a burn without human intervention. But this may be changing as climate, increased urban development, and the spread of invasive species lead to more frequent wildfires. As a result, humans may need to step in more often to help landscapes recover after a fire. At the Santa Barbara Botanic Garden, we're working to better understand exactly where, how, and when to intervene in post-fire landscapes to make the greatest impact.
 
 
 ### Learn more
